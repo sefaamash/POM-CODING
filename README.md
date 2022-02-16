@@ -1,2 +1,2 @@
 # POM-CODING
-Coding for Pom for students of ssuet software engineering19
+Coding of Pom for students of ssuet software engineering19
